@@ -6,3 +6,12 @@ systemctl start docker
 systemctl enable docker
 docker pull sonatype/nexus3
 docker run -d -p 8081:8081 --name nexus sonatype/nexus3
+
+TO SEE THE ADMIN PASSWORD OF NEXUS
+
+docker images
+docker ps
+docker exec -it nexus /bin/bash
+cd /nexus-data/
+ls
+cat admin.password
