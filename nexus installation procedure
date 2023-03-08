@@ -15,3 +15,5 @@ docker exec -it nexus /bin/bash
 cd /nexus-data/
 ls
 cat admin.password
+
+path: /var/jenkins_home/workspace/new project mvn/target/meltin-3.0.2.jar
