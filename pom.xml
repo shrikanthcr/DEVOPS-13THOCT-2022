@@ -3,9 +3,9 @@
   xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
   <modelVersion>4.0.0</modelVersion>
 
-  <groupId>doctor</groupId>
-  <artifactId>meltin</artifactId>
-  <version>3.0.2</version>
+  <groupId>www.whatsapp.com</groupId>
+  <artifactId>whatsapp</artifactId>
+  <version>1.0.0</version>
 
   <name>meltin</name>
   <!-- FIXME change it to the project's website -->
